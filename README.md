@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elvis-agreda&label=Profile%20views&color=0e75b6&style=flat" alt="elvis-agreda" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elvis-agreda" alt="elvis-agreda" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elvis-agreda&theme=nord" alt="elvis-agreda" /></a> </p>
 
 - 💬 Ask me about **Python, Data Analysis**
 
